@@ -3,8 +3,8 @@
   ![](https://komarev.com/ghpvc/?username=mjx27&color=ff7177&style=for-the-badge)
 </div>
 
-<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=20&letterSpacing=1px&duration=1&pause=&color=ff7177&center=true&vCenter=true&repeat=false&width=435&lines=SIARHEI+HARBATSENKA" alt="Typing SVG" /></a></p>
-<h1 align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=30&letterSpacing=1px&duration=4000&pause=2000&color=ff7177&center=true&vCenter=true&width=435&lines=FRONTEND+DEVELOPER" alt="Typing SVG" /></a></h1>
+<p align='center'><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=20&letterSpacing=1px&duration=1&pause=&color=ff7177&center=true&vCenter=true&repeat=false&width=435&lines=SIARHEI+HARBATSENKA" alt="Typing SVG" /></p>
+<h1 align='center'><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=30&letterSpacing=1px&duration=4000&pause=2000&color=ff7177&center=true&vCenter=true&width=435&lines=FRONTEND+DEVELOPER" alt="Typing SVG" /></h1>
 
 <div align='center'>
 <h3>💬 CONTACT ME</h3>
@@ -90,7 +90,7 @@ Beyond coding:
 <div align='center'>
 <h3>🔥 Streak Stats</h3>
   
-[![](https://streak-stats.demolab.com?user=mjx27&hide_border=true&card_width=600&card_height=250&theme=aura_dark)](https://git.io/streak-stats)
+![](https://streak-stats.demolab.com?user=mjx27&hide_border=true&card_width=600&card_height=250&theme=aura_dark)
 
 <div align='center'>
   <h3>💻 GitHub Profile Stats</h3>
@@ -101,7 +101,7 @@ Beyond coding:
 
   <h3>📊 Github Commit Stats</h3>
     
-  ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&langs_count=5&theme=aura_dark&border_color=00000000&display_format=percent&line_height=26)
+  ![](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&langs_count=5&theme=aura_dark&border_color=00000000&display_format=percent&line_height=26)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mjx27&theme=aura_dark&utcOffset=3&height=300)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjx27&theme=aura_dark)
 
