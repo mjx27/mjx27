@@ -12,7 +12,7 @@
 [![Email](https://img.shields.io/badge/Gmail-siarheihhhfront%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:siarheihhhfront@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@serhj27-2CA5E0?logo=telegram)](https://t.me/serhj27)
 [![LeetCode](https://img.shields.io/badge/LeetCode-MJXWhyNot-FFA116?logo=leetcode)](https://leetcode.com/u/MJXWhyNot/)
-[![HH.ru](https://img.shields.io/badge/HH.ru-Резюме-FF6347?logo=hh.ru)](https://hh.ru/resume/74d88581ff0f2db8580039ed1f4c3867335375)
+[![HH.ru](https://img.shields.io/badge/HH.ru-Resume-FF6347?logo=hh.ru)](https://hh.ru/resume/74d88581ff0f2db8580039ed1f4c3867335375)
 [![Steam](https://img.shields.io/badge/Steam-jebanattt-000000?logo=steam)](https://steamcommunity.com/id/jebanattt/)
 </div>
 <hr/>
