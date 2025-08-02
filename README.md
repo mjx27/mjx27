@@ -9,11 +9,11 @@
 <div align='center'>
 <h3>💬 CONTACT ME</h3>
   
-[![Email](https://img.shields.io/badge/Gmail-siarheihhhfront%40gmail.com-ff7177?logo=gmail&logoColor=white)](mailto:siarheihhhfront@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@serhj27-ff7177?logo=telegram)](https://t.me/serhj27)
-[![LeetCode](https://img.shields.io/badge/LeetCode-MJXWhyNot-ff7177?logo=leetcode)](https://leetcode.com/u/MJXWhyNot/)
-[![HH.ru](https://img.shields.io/badge/HH.ru-Resume-ff7177?logo=hh.ru)](https://hh.ru/resume/74d88581ff0f2db8580039ed1f4c3867335375)
-[![Steam](https://img.shields.io/badge/Steam-jebanattt-ff7177?logo=steam)](https://steamcommunity.com/id/jebanattt/)
+[![Email](https://img.shields.io/badge/Gmail-siarheihhhfront%40gmail.com-ff7177?logo=gmail&logoColor=white&style=for-the-badge)](mailto:siarheihhhfront@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@serhj27-ff7177?logo=telegram&style=for-the-badge)](https://t.me/serhj27)
+[![LeetCode](https://img.shields.io/badge/LeetCode-MJXWhyNot-ff7177?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/MJXWhyNot/)
+[![HH.ru](https://img.shields.io/badge/HH.ru-Resume-ff7177?logo=hh.ru&style=for-the-badge)](https://hh.ru/resume/74d88581ff0f2db8580039ed1f4c3867335375)
+[![Steam](https://img.shields.io/badge/Steam-jebanattt-ff7177?logo=steam&style=for-the-badge)](https://steamcommunity.com/id/jebanattt/)
 </div>
 <hr/>
 <h3>🚀 About Me</h3>
@@ -98,10 +98,15 @@ Beyond coding:
   ![](https://github-readme-stats.vercel.app/api?username=mjx27&show_icons=true&theme=aura_dark&line_height=33&hide_title=false&border_color=00000000)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mjx27&theme=aura_dark&hide_title=false&langs_count=4&border_color=00000000)
 
+
   <h3>📊 Github Commit Stats</h3>
     
   ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&langs_count=5&theme=aura_dark&border_color=00000000&display_format=percent&line_height=26)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mjx27&theme=aura_dark&utcOffset=3&height=300)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjx27&theme=aura_dark)
+
+  <h3>🏆 GitHub Trophies</h3>
+
+  ![](https://github-profile-trophy.vercel.app/?username=mjx27&theme=monokai&no-frame=true&margin-w=15&&title=Followers,Commits,PullRequest,Reviews,Repositories,Experience&column=6&no-bg=true)
 </div>
 </div>
