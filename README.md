@@ -1,5 +1,5 @@
-<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=20&letterSpacing=1px&duration=1&pause=&color=0E5592FF&center=true&vCenter=true&repeat=false&width=435&lines=SIARHEI+HARBATSENKA" alt="Typing SVG" /></a></p>
-<h1 align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=30&letterSpacing=1px&duration=4000&pause=2000&color=1894FF&center=true&vCenter=true&width=435&lines=FRONTEND+DEVELOPER" alt="Typing SVG" /></a></h1>
+<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=20&letterSpacing=1px&duration=1&pause=&color=389e71&center=true&vCenter=true&repeat=false&width=435&lines=SIARHEI+HARBATSENKA" alt="Typing SVG" /></a></p>
+<h1 align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=30&letterSpacing=1px&duration=4000&pause=2000&color=389e71&center=true&vCenter=true&width=435&lines=FRONTEND+DEVELOPER" alt="Typing SVG" /></a></h1>
 
 <div align='center'>
 <h3>💬 CONTACT ME</h3>
@@ -53,4 +53,13 @@ Beyond coding:
   ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 </div>  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mjx27&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<details>
+  <summary>Statistics</summary>
+  
+  <div align='center'>
+  <h4>My Streak</h4>
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=mjx27&theme=vue-dark&hide_border=true&background=EB545400)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjx27&show_icons=true&theme=vue-dark&bg_color=00000000&hide_border=true)
+  </div>
+</details>
