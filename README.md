@@ -107,6 +107,6 @@ Beyond coding:
 
   <h3>🏆 GitHub Trophies</h3>
 
-  ![](https://github-profile-trophy.vercel.app/?username=mjx27&theme=monokai&no-frame=true&margin-w=15&&title=Followers,Commits,PullRequest,Reviews,Repositories,Experience&column=6&no-bg=true)
+  ![](https://github-profile-trophy.vercel.app/?username=mjx27&theme=monokai&no-frame=true&margin-w=15&&title=Followers,Commits,PullRequest,Stars,Reviews,Repositories&column=6&no-bg=true)
 </div>
 </div>
