@@ -1,5 +1,10 @@
-<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=20&letterSpacing=1px&duration=1&pause=&color=389e71&center=true&vCenter=true&repeat=false&width=435&lines=SIARHEI+HARBATSENKA" alt="Typing SVG" /></a></p>
-<h1 align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=30&letterSpacing=1px&duration=4000&pause=2000&color=389e71&center=true&vCenter=true&width=435&lines=FRONTEND+DEVELOPER" alt="Typing SVG" /></a></h1>
+<div align='center'>
+
+  ![](https://komarev.com/ghpvc/?username=mjx27)
+</div>
+
+<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=20&letterSpacing=1px&duration=1&pause=&color=1CBA58&center=true&vCenter=true&repeat=false&width=435&lines=SIARHEI+HARBATSENKA" alt="Typing SVG" /></a></p>
+<h1 align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=30&letterSpacing=1px&duration=4000&pause=2000&color=1CBA58&center=true&vCenter=true&width=435&lines=FRONTEND+DEVELOPER" alt="Typing SVG" /></a></h1>
 
 <div align='center'>
 <h3>💬 CONTACT ME</h3>
@@ -52,14 +57,17 @@ Beyond coding:
   ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
   ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 </div>  
+<hr/>
 
-<details>
-  <summary>Statistics</summary>
+<h3>📊 GitHub Stats:</h3>
   
-  <div align='center'>
-  <h4>My Streak</h4>
+<div align='center'>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mjx27&hide_border=true&card_width=600&card_height=250&stroke=AEAEAE&background=00000000&ring=1CBA58&currStreakNum=1CBA58&fire=26FF79&sideNums=1CBA58&currStreakLabel=1CBA58&sideLabels=1CBA58&dates=AEAEAE&excludeDaysLabel=1CBA58)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&title_color=1CBA58&icon_color=1CBA58&border_color=00000000&text_color=AEAEAE&card_width=600)
-  </div>
-</details>
+[![](https://streak-stats.demolab.com?user=mjx27&hide_border=true&card_width=600&card_height=250&stroke=AEAEAE&background=00000000&ring=1CBA58&currStreakNum=1CBA58&fire=26FF79&sideNums=1CBA58&currStreakLabel=1CBA58&sideLabels=1CBA58&dates=AEAEAE&excludeDaysLabel=1CBA58)](https://git.io/streak-stats)
+<div align='center'>
+
+  ![](https://github-readme-stats.vercel.app/api?username=mjx27&show_icons=true&theme=transparent&title_color=1CBA58&icon_color=1CBA58&border_color=00000000&text_color=AEAEAE&bg_color=00000000&line_height=32&hide_title=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mjx27&bg_color=00000000&border_color=00000000&hide_title=true&text_color=AEAEAE&langs_count=7)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mjx27&theme=vue&utcOffset=3)
+</div>
+</div>
