@@ -1,6 +1,6 @@
 <div align='center'>
 
-  ![](https://komarev.com/ghpvc/?username=mjx27&color=1CBA58&style=For-the-badge)
+  ![](https://komarev.com/ghpvc/?username=mjx27&color=ff7177&style=for-the-badge)
 </div>
 
 <p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=20&letterSpacing=1px&duration=1&pause=&color=ff7177&center=true&vCenter=true&repeat=false&width=435&lines=SIARHEI+HARBATSENKA" alt="Typing SVG" /></a></p>
@@ -99,9 +99,9 @@ Beyond coding:
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mjx27&theme=aura_dark&hide_title=false&langs_count=4&border_color=00000000)
 
   <h3>📊 Github Commit Stats</h3>
-
-  ![](https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=ff7375&authorColor=b6bbc8&backgroundColor=262334&symbolColor=7ce5d0&quote=If%20there%27s%20a%20book%20that%20you%20want%20to%20read%2C%20but%20it%20hasn%27t%20been%20written%20yet%2C%20then%20you%20must%20write%20it.&author=Toni%20Morrison)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mjx27&theme=aura_dark&utcOffset=3)
+    
+  ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&langs_count=5&theme=aura_dark&border_color=00000000&display_format=percent&line_height=26)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mjx27&theme=aura_dark&utcOffset=3&height=300)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjx27&theme=aura_dark)
 </div>
 </div>
