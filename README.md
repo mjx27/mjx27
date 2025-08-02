@@ -64,10 +64,14 @@ Beyond coding:
 <div align='center'>
 
 [![](https://streak-stats.demolab.com?user=mjx27&hide_border=true&card_width=600&card_height=250&stroke=AEAEAE&background=00000000&ring=1CBA58&currStreakNum=1CBA58&fire=26FF79&sideNums=1CBA58&currStreakLabel=1CBA58&sideLabels=1CBA58&dates=AEAEAE&excludeDaysLabel=1CBA58)](https://git.io/streak-stats)
+  <hr/>
+
 <div align='center'>
 
   ![](https://github-readme-stats.vercel.app/api?username=mjx27&show_icons=true&theme=transparent&title_color=1CBA58&icon_color=1CBA58&border_color=00000000&text_color=AEAEAE&bg_color=00000000&line_height=32&hide_title=true)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mjx27&bg_color=00000000&border_color=00000000&hide_title=true&text_color=AEAEAE&langs_count=7)
+  <hr/>
+  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mjx27&theme=vue&utcOffset=3)
 </div>
 </div>
