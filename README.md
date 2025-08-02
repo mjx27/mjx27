@@ -30,7 +30,7 @@ Beyond coding:
   🔍 Always seeking ways to optimize workflows and deliver exceptional user experiences.
 
 <hr/>
-<h2>🛠 TECH STACK</h2>
+<h3>🛠 TECH STACK</h3>
 <div align='justify'>
   <h3>👨‍💻 Programming languages and tools</h3>
   
@@ -88,24 +88,24 @@ Beyond coding:
 <h3>📊 GitHub Stats:</h3>
   
 <div align='center'>
-<h3>🔥 Streak Stats</h3>
+<h2>🔥 Streak Stats</h2>
   
 ![](https://streak-stats.demolab.com?user=mjx27&hide_border=true&card_width=600&card_height=250&theme=aura_dark)
 
 <div align='center'>
-  <h3>💻 GitHub Profile Stats</h3>
+  <h2>💻 GitHub Profile Stats</h2>
 
   ![](https://github-readme-stats.vercel.app/api?username=mjx27&show_icons=true&theme=aura_dark&line_height=33&hide_title=false&border_color=00000000)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mjx27&theme=aura_dark&hide_title=false&langs_count=4&border_color=00000000)
 
 
-  <h3>📊 Github Commit Stats</h3>
+  <h2>📊 Github Commit Stats</h2>
     
   ![](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&langs_count=5&theme=aura_dark&border_color=00000000&display_format=percent&line_height=26)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mjx27&theme=aura_dark&utcOffset=3&height=300)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjx27&theme=aura_dark)
 
-  <h3>🏆 GitHub Trophies</h3>
+  <h2>🏆 GitHub Trophies</h2>
 
   ![](https://github-profile-trophy.vercel.app/?username=mjx27&theme=monokai&no-frame=true&margin-w=15&&title=Followers,Commits,PullRequest,Stars,Reviews,Repositories&column=6&no-bg=true)
 </div>
