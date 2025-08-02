@@ -59,7 +59,7 @@ Beyond coding:
   <div align='center'>
   <h4>My Streak</h4>
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=mjx27&theme=vue-dark&hide_border=true&background=EB545400)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjx27&show_icons=true&theme=vue-dark&bg_color=00000000&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mjx27&hide_border=true&card_width=600&card_height=250&stroke=AEAEAE&background=00000000&ring=1CBA58&currStreakNum=1CBA58&fire=26FF79&sideNums=1CBA58&currStreakLabel=1CBA58&sideLabels=1CBA58&dates=AEAEAE&excludeDaysLabel=1CBA58)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&title_color=1CBA58&icon_color=1CBA58&border_color=00000000&text_color=AEAEAE&card_width=600)
   </div>
 </details>
