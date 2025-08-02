@@ -1,19 +1,19 @@
 <div align='center'>
 
-  ![](https://komarev.com/ghpvc/?username=mjx27)
+  ![](https://komarev.com/ghpvc/?username=mjx27&color=1CBA58&style=For-the-badge)
 </div>
 
-<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=20&letterSpacing=1px&duration=1&pause=&color=1CBA58&center=true&vCenter=true&repeat=false&width=435&lines=SIARHEI+HARBATSENKA" alt="Typing SVG" /></a></p>
-<h1 align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=30&letterSpacing=1px&duration=4000&pause=2000&color=1CBA58&center=true&vCenter=true&width=435&lines=FRONTEND+DEVELOPER" alt="Typing SVG" /></a></h1>
+<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=20&letterSpacing=1px&duration=1&pause=&color=ff7177&center=true&vCenter=true&repeat=false&width=435&lines=SIARHEI+HARBATSENKA" alt="Typing SVG" /></a></p>
+<h1 align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=30&letterSpacing=1px&duration=4000&pause=2000&color=ff7177&center=true&vCenter=true&width=435&lines=FRONTEND+DEVELOPER" alt="Typing SVG" /></a></h1>
 
 <div align='center'>
 <h3>💬 CONTACT ME</h3>
   
-[![Email](https://img.shields.io/badge/Gmail-siarheihhhfront%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:siarheihhhfront@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@serhj27-2CA5E0?logo=telegram)](https://t.me/serhj27)
-[![LeetCode](https://img.shields.io/badge/LeetCode-MJXWhyNot-FFA116?logo=leetcode)](https://leetcode.com/u/MJXWhyNot/)
-[![HH.ru](https://img.shields.io/badge/HH.ru-Resume-FF6347?logo=hh.ru)](https://hh.ru/resume/74d88581ff0f2db8580039ed1f4c3867335375)
-[![Steam](https://img.shields.io/badge/Steam-jebanattt-000000?logo=steam)](https://steamcommunity.com/id/jebanattt/)
+[![Email](https://img.shields.io/badge/Gmail-siarheihhhfront%40gmail.com-ff7177?logo=gmail&logoColor=white)](mailto:siarheihhhfront@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@serhj27-ff7177?logo=telegram)](https://t.me/serhj27)
+[![LeetCode](https://img.shields.io/badge/LeetCode-MJXWhyNot-ff7177?logo=leetcode)](https://leetcode.com/u/MJXWhyNot/)
+[![HH.ru](https://img.shields.io/badge/HH.ru-Resume-ff7177?logo=hh.ru)](https://hh.ru/resume/74d88581ff0f2db8580039ed1f4c3867335375)
+[![Steam](https://img.shields.io/badge/Steam-jebanattt-ff7177?logo=steam)](https://steamcommunity.com/id/jebanattt/)
 </div>
 <hr/>
 <h3>🚀 About Me</h3>
@@ -88,16 +88,20 @@ Beyond coding:
 <h3>📊 GitHub Stats:</h3>
   
 <div align='center'>
-
-[![](https://streak-stats.demolab.com?user=mjx27&hide_border=true&card_width=600&card_height=250&stroke=AEAEAE&background=00000000&ring=1CBA58&currStreakNum=1CBA58&fire=26FF79&sideNums=1CBA58&currStreakLabel=1CBA58&sideLabels=1CBA58&dates=AEAEAE&excludeDaysLabel=1CBA58)](https://git.io/streak-stats)
-  <hr/>
+<h3>🔥 Streak Stats</h3>
+  
+[![](https://streak-stats.demolab.com?user=mjx27&hide_border=true&card_width=600&card_height=250&theme=aura_dark)](https://git.io/streak-stats)
 
 <div align='center'>
+  <h3>💻 GitHub Profile Stats</h3>
 
-  ![](https://github-readme-stats.vercel.app/api?username=mjx27&show_icons=true&theme=transparent&title_color=1CBA58&icon_color=1CBA58&border_color=00000000&text_color=AEAEAE&bg_color=00000000&line_height=32&hide_title=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mjx27&bg_color=00000000&border_color=00000000&hide_title=true&text_color=AEAEAE&langs_count=7)
-  <hr/>
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mjx27&theme=vue&utcOffset=3)
+  ![](https://github-readme-stats.vercel.app/api?username=mjx27&show_icons=true&theme=aura_dark&line_height=33&hide_title=false&border_color=00000000)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mjx27&theme=aura_dark&hide_title=false&langs_count=4&border_color=00000000)
+
+  <h3>📊 Github Commit Stats</h3>
+
+  ![](https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=ff7375&authorColor=b6bbc8&backgroundColor=262334&symbolColor=7ce5d0&quote=If%20there%27s%20a%20book%20that%20you%20want%20to%20read%2C%20but%20it%20hasn%27t%20been%20written%20yet%2C%20then%20you%20must%20write%20it.&author=Toni%20Morrison)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mjx27&theme=aura_dark&utcOffset=3)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjx27&theme=aura_dark)
 </div>
 </div>
