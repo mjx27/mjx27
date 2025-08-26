@@ -9,7 +9,7 @@
 <div align='center'>
 <h3>💬 CONTACT ME</h3>
   
-[![Email](https://img.shields.io/badge/Gmail-siarheihhhfront%40gmail.com-ff7177?logo=gmail&logoColor=white&style=for-the-badge)](mailto:siarheihhhfront@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-siarheimjxfull%40gmail.com-ff7177?logo=gmail&logoColor=white&style=for-the-badge)](mailto:siarheimjxfull@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@serhj27-ff7177?logo=telegram&style=for-the-badge)](https://t.me/serhj27)
 [![LeetCode](https://img.shields.io/badge/LeetCode-MJXWhyNot-ff7177?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/MJXWhyNot/)
 [![Steam](https://img.shields.io/badge/Steam-jebanattt-ff7177?logo=steam&style=for-the-badge)](https://steamcommunity.com/id/jebanattt/)
