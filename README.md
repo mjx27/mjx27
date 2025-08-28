@@ -32,7 +32,7 @@ Beyond coding:
 <h3>❄ Preview Code</h3>
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=mjx27&repo=TZModalWindow&theme=aura_dark&border_color=00000000)](https://github.com/mjx27/TZRandomInfo)
-![](https://github-readme-stats.vercel.app/api/pin/?username=mjx27&repo=TZRandomInfo&theme=aura_dark&border_color=00000000)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=mjx27&repo=TZRandomInfo&theme=aura_dark&border_color=00000000)](https://github.com/mjx27/TZRandomInfo)
 
 <h3>🛠 TECH STACK</h3>
 <div align='justify'>
